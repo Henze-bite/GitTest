@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hello world 
 goodbye world!
+=======
+Hello world!
+
+This is not the updated helloworld!
+>>>>>>> d99ae2e489a7088cf25b0f6c07a9ad2d93ac7576
